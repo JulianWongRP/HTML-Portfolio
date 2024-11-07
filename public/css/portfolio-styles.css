@@ -7,7 +7,7 @@
 body {
     background-color: #190e34;
     color: #fff;
-    min-height: 285vh;
+    min-height: 110vh;
 }
 .instructions p {
     margin: 10px auto;
@@ -83,6 +83,7 @@ section a {
     display:flex;
     flex-wrap: nowrap;
     justify-content: start;
+    margin: 1rem auto 3rem;
 }
 
 .card {
