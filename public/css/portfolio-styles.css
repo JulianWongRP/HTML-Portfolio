@@ -162,19 +162,19 @@ input:checked + label .description {
 }
 
 .card[for="c1"] {
-    background-image: url('public/images/typo-final.png');
+    background-image: url('/public/images/typo-final.png');
     background-position: left center;
 }
 .card[for="c2"] {
-    background-image: url('public/images/logo-design-coverpage.png');
+    background-image: url('/public/images/logo-design-coverpage.png');
     background-position: left bottom;
 }
 .card[for="c3"] {
-    background-image: url('public/images/menu-mainpage.png');
+    background-image: url('/public/images/menu-mainpage.png');
     background-position: left bottom;
 }
 .card[for="c4"] {
-    background-image: url('public/images/Space\ Background-01.png');
+    background-image: url('/public/images/Space\ Background-01.png');
     background-position: left center;
 }
 

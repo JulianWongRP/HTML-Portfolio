@@ -5,7 +5,7 @@ body {background-color: rgb(21, 33, 79);}
 }
 @font-face {
     font-family: 'Thasadith';
-    src: url('/public/fonts/Thasadith-Bold.ttf');
+    src: url('/public/fonts/Thasadith-Bold.ttf') format('truetype');
 }
 
 
