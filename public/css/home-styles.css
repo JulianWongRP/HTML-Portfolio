@@ -1,11 +1,11 @@
 body {background-color: rgb(21, 33, 79);}
 @font-face {
     font-family: 'MyHandWriting';
-    src: url('/public/fonts/Myhandwriting20-Regular.ttf') format('truetype');
+    src: url('public/fonts/Myhandwriting20-Regular.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Thasadith';
-    src: url('/public/fonts/Thasadith-Bold.ttf');
+    src: url('public/fonts/Thasadith-Bold.ttf');
 }
 
 
